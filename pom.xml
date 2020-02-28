@@ -20,6 +20,9 @@
   
   </dependencies>
 
+<profiles>
+<profile>
+<id>sanity</id>
 
 <build>
 <pluginManagement>
@@ -39,6 +42,7 @@
 </pluginManagement>
 </build>
 
-
+</profile>
+</profiles>
   
 </project>
